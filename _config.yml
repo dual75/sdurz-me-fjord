@@ -78,3 +78,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://curious-squid-74cef.netlify.app'
